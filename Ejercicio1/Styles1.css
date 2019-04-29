@@ -1,0 +1,29 @@
+
+.Principal{
+padding-top: 10%;
+background-color: #ffffff;
+margin: 0 auto;
+width: 520px;
+}
+
+
+.Titulo{
+
+	background-color: #33bebe;
+	color: #ffffff;
+	font-family: "Arial"
+	padding-left: 10px;
+	padding-top: 20px;
+}
+
+.Contenido{
+	display: flex;
+	flex-direction: row;
+	padding-left: 0px;
+}
+.Parrafo{
+	margin: 0;
+	color: #7C8B88; 
+	padding-left: 10px;
+	
+}
